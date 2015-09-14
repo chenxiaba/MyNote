@@ -1,5 +1,5 @@
 # mywork
-本项目主要用于记录笔记、跟踪待办事项。
+本项目主要用于记录笔记、跟踪待办事项。   
 pages: blog.chenxiaba.com/mywork
 
 # 笔记
